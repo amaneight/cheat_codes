@@ -1,6 +1,6 @@
-=========================
-HANDY CHEATS FOR WINDOWS
-=========================
+===================================
+HANDY CHEATS FOR WINDOWS POWERSHELL
+===================================
 
 +----------------------------------+-------------------------------------------------------------+
 |     Command                      |              Usage                                          |
@@ -8,37 +8,37 @@ HANDY CHEATS FOR WINDOWS
 +==================================+=============================================================+
 |>pwd                              | Print working directory.                                    |
 +----------------------------------+-------------------------------------------------------------+
-|>hostname :                       | Print name of computer.                                     |
+|>hostname                         | Print name of computer.                                     |
 +----------------------------------+-------------------------------------------------------------+
-|>mkdir :                          | Create folder or director.                                  |
+|>mkdir                            | Create folder or director.                                  |
 +----------------------------------+-------------------------------------------------------------+
-|>cd :                             | Change directory.                                           |
+|>cd                               | Change directory.                                           |
 +----------------------------------+-------------------------------------------------------------+
-|>ls :                             | List contents of current directory.                         |
+|>ls                               | List contents of current directory.                         |
 +----------------------------------+-------------------------------------------------------------+
-|>rmdir :                          | Remove directory.                                           |
+|>rmdir                            | Remove directory.                                           |
 +----------------------------------+-------------------------------------------------------------+
-|>pushd :                          | Move ahead to specified directory from current directory.   |
+|>pushd                            | Move ahead to specified directory from current directory.   |
 +----------------------------------+-------------------------------------------------------------+
-|>popd :                           | Move back to directory where ‘pushd’ was executed.          |
+|>popd                             | Move back to directory where ‘pushd’ was executed.          |
 +----------------------------------+-------------------------------------------------------------+
 |>New-Item ‘file_name’ –type file  | Create new file.                                            |
 +----------------------------------+-------------------------------------------------------------+
-|>cp :                             | Copy a file.                                                |
+|>cp                               | Copy a file.                                                |
 +----------------------------------+-------------------------------------------------------------+
-|>mv :                             | Move a file or rename a file.                               |
+|>mv                               | Move a file or rename a file.                               |
 +----------------------------------+-------------------------------------------------------------+
-|>MORE :                           | View contents of file (hit spacebar to view complete file). |
+|>MORE                             | View contents of file (hit spacebar to view complete file). |
 +----------------------------------+-------------------------------------------------------------+
-|>cat :                            | View contents of file without any interruption.             |
+|>cat                              | View contents of file without any interruption.             |
 +----------------------------------+-------------------------------------------------------------+
-|>rm :                             | Remove a file.                                              |
+|>rm                               | Remove a file.                                              |
 +----------------------------------+-------------------------------------------------------------+
-|>dir -r :                         | Find files.                                                 |
+|>dir -r                           | Find files.                                                 |
 +----------------------------------+-------------------------------------------------------------+
 |>select-string ‘word’ ‘file-name’ | Search a word in files.                                     |
 +----------------------------------+-------------------------------------------------------------+
-|>help :                           | Find information about commands.                            |
+|>help                             | Find information about commands.                            |
 +----------------------------------+-------------------------------------------------------------+
-|>$env :                           | Find environment.                                           |
+|>$env                             | Find environment.                                           |
 +----------------------------------+-------------------------------------------------------------+
