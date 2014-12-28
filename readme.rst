@@ -12,12 +12,9 @@ General Usage notes
 - Along with the commands, their purpose has also been defined.
 
 Using Terminal on Linux
-
  - Goto window manager and start "Shell" or "Terminal".
 
 Using Powershell on Windows
-
-To get started do this:
  - Click Start.
  - Search : powershell
  - Hit Enter.
